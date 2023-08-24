@@ -5,4 +5,13 @@ Desenvolvedor Python, Typescript, Go e Rust. Agilista, apaixonado por Open Sourc
 Você me encontra no Twitter em [@dmux](https://twitter.com/dmux).
 
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js           9 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.06 %
+JavaScript       4 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+YAML             1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Bash             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+JSON             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+```
+
 <!--END_SECTION:waka-->
