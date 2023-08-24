@@ -7,11 +7,17 @@ Você me encontra no Twitter em [@dmux](https://twitter.com/dmux).
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           9 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.06 %
-JavaScript       4 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-YAML             1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Bash             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JSON             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+From: 04 August 2018 - To: 24 August 2023
+
+Total Time: 2,197 hrs 26 mins
+
+Vue.js             789 hrs 23 mins >>>>>>>>>----------------   35.22 %
+JavaScript         524 hrs 49 mins >>>>>>-------------------   23.41 %
+Python             463 hrs 45 mins >>>>>--------------------   20.69 %
+HTML               102 hrs 42 mins >------------------------   04.58 %
+YAML               67 hrs 9 mins   >------------------------   03.00 %
+Bash               63 hrs 51 mins  >------------------------   02.85 %
+Other              44 hrs 6 mins   -------------------------   01.97 %
 ```
 
 <!--END_SECTION:waka-->
