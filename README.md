@@ -1,5 +1,3 @@
-### Português
-
 Desenvolvedor Python, Typescript, Go e Rust. Agilista, contribuidor ativo de projetos Open Source. É fundador das empresas Tompast Tecnologia e Startup Code. Especialista em desenvolvimento de software seguro, com mais de 21 anos de experiência.
 
 Ajudou a desenvolver o SREI, Sistema de Registro Eletrônico de Imóveis Brasileiro.Na Embraer colaborou com o desenvolvimento do Sistema Integrado de Monitoramento de Fronteiras (SISFRON) do Exército Brasileiro. Co autor de ferramentas utilizando inteligência artificial para combate a corrupção e pedofilia utilizada pela Polícia Federal Brasileira.
@@ -7,8 +5,6 @@ Ajudou a desenvolver o SREI, Sistema de Registro Eletrônico de Imóveis Brasile
 Atualmente trabalha com consultoria, desenvolvimento envolvendo as áreas de Segurança, Machine Learning, IoT e Cloud Computing.
 
 Você me encontra no Twitter em [@dmux](https://twitter.com/dmux).
-
-### English
 
 Python, Typescript, Go and Rust developer. Agilist, active contributor to Open Source projects. He is the founder of Tompast Tecnologia and Startup Code. Specialist in secure software development, with over 21 years of experience. 
 
@@ -18,6 +14,7 @@ Currently works with consulting, development involving the areas of Security, Ma
 
 You can find me on Twitter at [@dmux](https://twitter.com/dmux).
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
