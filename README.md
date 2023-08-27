@@ -21,17 +21,17 @@ You can find me on Twitter at [@dmux](https://twitter.com/dmux).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2018 - To: 26 August 2023
+From: 04 August 2018 - To: 27 August 2023
 
-Total Time: 2,199 hrs 5 mins
+Total Time: 2,206 hrs 38 mins
 
-Vue.js             789 hrs 58 mins >>>>>>>>>----------------   35.22 %
-JavaScript         524 hrs 49 mins >>>>>>-------------------   23.40 %
-Python             463 hrs 45 mins >>>>>--------------------   20.67 %
-HTML               102 hrs 42 mins >------------------------   04.58 %
-YAML               67 hrs 23 mins  >------------------------   03.00 %
-Bash               63 hrs 54 mins  >------------------------   02.85 %
-Other              44 hrs 6 mins   -------------------------   01.97 %
+Vue.js             790 hrs 14 mins >>>>>>>>>----------------   35.11 %
+JavaScript         524 hrs 58 mins >>>>>>-------------------   23.32 %
+Python             466 hrs 8 mins  >>>>>--------------------   20.71 %
+HTML               102 hrs 42 mins >------------------------   04.56 %
+YAML               67 hrs 29 mins  >------------------------   03.00 %
+Bash               64 hrs 22 mins  >------------------------   02.86 %
+Other              44 hrs 9 mins   -------------------------   01.96 %
 ```
 
 <!--END_SECTION:waka-->
