@@ -10,7 +10,7 @@
 - 👨🏻‍💻 Co-author of tools using artificial intelligence to combat corruption used by the Brazilian Federal Police.
 - 👨🏻‍💻 At Embraer, he collaborated with the development of the Brazilian Army's Integrated Border Monitoring System (SISFRON).
 - 🔭 I’m currently working at [Startup Code Brazil](https://www.startupcode.com.br) with consulting, development involving the areas of Security, Machine Learning, IoT and Cloud Computing.
-- 🌱 I’m currently learning more on Observability and better DevOps Practices and Anomaly Detection
+- 🌱 I’m currently learning more on Observability, better DevOps Practices and Anomaly Detection
 - 💬 Ask me about **Go, Rust, Git and Python**
 - 📫 How to reach me: [@dmux](https://twitter.com/dmux) on Twitter
 
