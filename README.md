@@ -5,9 +5,10 @@
 </p>
 
 
-- 👨🏻‍💻 Python, Typescript, Go and Rust developer. Agilist, active contributor to Open Source projects. He is the founder of Tompast Tecnologia and Startup Code. Specialist in secure software development, with over 21 years of experience.
-- 👨🏻‍💻 Develop SREI, the Brazilian Electronic Property Registration System. At Embraer, he collaborated with the development of the Brazilian Army's Integrated Border Monitoring System (SISFRON).
-- 👨🏻‍💻 Co-author of tools using artificial intelligence to combat corruption used by the Brazilian Federal Police. 
+- 👨🏻‍💻 Python, Typescript, Go and Rust developer. Agilist, active contributor to Open Source projects. He is the founder of Tompast Tecnologia. Specialist in secure software development, with over 21 years of experience.
+- 👨🏻‍💻 Develop SREI, the Brazilian Electronic Property Registration System.
+- 👨🏻‍💻 Co-author of tools using artificial intelligence to combat corruption used by the Brazilian Federal Police.
+- 👨🏻‍💻 At Embraer, he collaborated with the development of the Brazilian Army's Integrated Border Monitoring System (SISFRON).
 - 🔭 I’m currently working at [Startup Code Brazil](https://www.startupcode.com.br) with consulting, development involving the areas of Security, Machine Learning, IoT and Cloud Computing.
 - 🌱 I’m currently learning more on Observability and better DevOps Practices and Anomaly Detection
 - 💬 Ask me about **Go, Rust, Git and Python**
