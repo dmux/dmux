@@ -16,7 +16,7 @@
 
 -------
 
-**📝 Latest Blog Posts**
+**📝 Latest Publications**
 
 <!-- BLOG-POST-LIST:START -->
 - [AIOPs - Detecção de anomalias com Python e Prometheus - TDC 2023](https://www.linkedin.com/posts/rafaelsales_aiops-detec%C3%A7%C3%A3o-de-anomalias-com-python-activity-7110731103132372992-LHMO?utm_source=share&utm_medium=member_desktop)
