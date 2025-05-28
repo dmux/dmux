@@ -19,6 +19,7 @@
 **📝 Latest Publications**
 
 <!-- BLOG-POST-LIST:START -->
+- [Como desenvolver um Agente de IA Autônomo Baseado em LlamaIndex para Execução e Correção Iterativa de Código Python & PySpark](https://medium.com/@rfsales/como-desenvolver-um-agente-de-ia-autônomo-baseado-em-llamaindex-para-execução-e-correção-iterativa-bf3645edb8bc)
 - [Utilizando LLMs para Processamento de Dados com PySpark](https://www.linkedin.com/pulse/utilizando-llms-para-processamento-de-dados-com-pyspark-rafael-sales-n4abe/)
 - [AIOPs - Detecção de anomalias com Python e Prometheus - TDC 2023](https://www.linkedin.com/posts/rafaelsales_aiops-detec%C3%A7%C3%A3o-de-anomalias-com-python-activity-7110731103132372992-LHMO?utm_source=share&utm_medium=member_desktop)
 - [Forecast de flutuações na cotação do Alumínio/LME usando Machine Learning e Python](https://www.linkedin.com/pulse/forecast-de-flutua%C3%A7%C3%B5es-na-cota%C3%A7%C3%A3o-do-alum%C3%ADniolme-usando-rafael-sales)
