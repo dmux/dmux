@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     8 hrs 8 mins    ████████████████░░░░░░░░░   63.54 %
-Markdown                   1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Bash                       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-Nginx configuration file   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Other                      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Python                     6 hrs 58 mins   ████████████████▒░░░░░░░░   65.13 %
+Markdown                   1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+Nginx configuration file   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Bash                       37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Docker                     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
