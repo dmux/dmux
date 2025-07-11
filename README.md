@@ -21,6 +21,7 @@
 **📝 Latest Publications**
 
 <!-- BLOG-POST-LIST:START -->
+- [Construa um ecossistema de documentação que dá super-poderes a agentes de IA — sem expor dados privados](https://medium.com/@rfsales/como-o-padrão-llms-txt-pode-turbinar-seus-copilots-internos-7fa0ac421412)
 - [Desenvolva localmente com Polars e escale com Spark no AWS Glue usando Ibis](https://medium.com/@rfsales/desenvolva-localmente-com-polars-e-escale-com-spark-no-aws-glue-usando-ibis-8c5fe892a0b1)
 - [Como desenvolver um Agente de IA Autônomo Baseado em LlamaIndex para Execução e Correção Iterativa de Código Python & PySpark](https://medium.com/@rfsales/como-desenvolver-um-agente-de-ia-autônomo-baseado-em-llamaindex-para-execução-e-correção-iterativa-bf3645edb8bc)
 - [Utilizando LLMs para Processamento de Dados com PySpark](https://www.linkedin.com/pulse/utilizando-llms-para-processamento-de-dados-com-pyspark-rafael-sales-n4abe/)
