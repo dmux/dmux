@@ -1,11 +1,32 @@
-<h2 align="center">👋 Hello! I'm Rafael</h2>
+<h2 align="center">👋 Hello! I'm Rafael Sales</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelsales">LinkedIn</a> •
   <a href="https://twitter.com/dmux">Twitter</a>
 </p>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+</div>
 
-- 👨🏻‍💻 Python, Typescript, Go and Rust developer. Agilist, active contributor to Open Source projects. He is the founder of Tompast Tecnologia. Specialist in secure software development, with over 21 years of experience.
+
+- 👨🏻‍💻 Python, Typescript, Go and Rust developer. Agilist, active contributor to Open Source projects with over 21 years of experience.
 - 👨🏻‍💻 Develop SREI, the Brazilian Electronic Property Registration System.
 - 👨🏻‍💻 Co-author of tools using artificial intelligence to combat corruption used by the Brazilian Federal Police.
 - 👨🏻‍💻 At Embraer, he collaborated with the development of the Brazilian Army's Integrated Border Monitoring System (SISFRON).
@@ -17,6 +38,7 @@
 - 🔗 Also, check out my profile on **Credly**: [https://www.credly.com/users/rfsales](https://www.credly.com/users/rfsales)
 
 -------
+
 
 **📝 Latest Publications**
 
