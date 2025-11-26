@@ -43,7 +43,7 @@
 **📝 Latest Publications**
 
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Java Vault Client][https://developer.hashicorp.com/vault/api-docs/libraries#java]
+- [Hashicorp Java Vault Client](https://developer.hashicorp.com/vault/api-docs/libraries#java)
 - [Concorrência vs Paralelismo em Go](https://dmux.github.io/apresentacao_goroutines_go_com_channels/)
 - [Construa um ecossistema de documentação que dá super-poderes a agentes de IA — sem expor dados privados](https://medium.com/@rfsales/como-o-padrão-llms-txt-pode-turbinar-seus-copilots-internos-7fa0ac421412)
 - [Desenvolva localmente com Polars e escale com Spark no AWS Glue usando Ibis](https://medium.com/@rfsales/desenvolva-localmente-com-polars-e-escale-com-spark-no-aws-glue-usando-ibis-8c5fe892a0b1)
