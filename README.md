@@ -59,7 +59,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON     0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.06 %
+Python   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.94 %
 ```
 
 <!--END_SECTION:waka-->
